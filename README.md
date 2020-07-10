@@ -11,4 +11,4 @@ There is no real-time platform which can solve the hunger of the righful people.
 4) The platform would need integration with food delivery companies for the Platform to work
 
 # Request from Developers
-Interested 
+Interested developers are requested to contribute. Let's create a better world.
